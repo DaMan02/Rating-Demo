@@ -1,0 +1,2 @@
+rootProject.name='Stamurai Rating'
+include ':app'
